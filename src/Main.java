@@ -4,6 +4,6 @@ import javax.swing.*;
 
 public class Main {
     static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "hello word");
+        JOptionPane.showMessageDialog(null, "hello git, nova mensagem");
     }
 }
